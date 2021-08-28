@@ -5,5 +5,5 @@ In the future I hope to update this with projects I have done and also using new
 This will be a great tool when looking for a job in the field to show my abilities.
 
 ## Deployment
-
+https://akays89.github.io/Portfolio2/
 
